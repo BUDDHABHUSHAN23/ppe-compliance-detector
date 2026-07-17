@@ -1,0 +1,8 @@
+path: ././data/merged/
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: helmet
+  1: head
+  2: person
