@@ -11,16 +11,7 @@ venv/
 .env.*
 
 # Data and model artifacts
-runs/
-data/raw/
-data/merged/
-models/
-*.pt
-*.onnx
-*.bin
-*.h5
-*.pb
-*.tflite
+# Keep datasets and model files available for upload via Git LFS.
 
 # Notebook outputs
 .ipynb_checkpoints/
